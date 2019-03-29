@@ -1,0 +1,61 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    },
+    {
+      "userId": 1231,
+      "id": 5
+    },
+    {
+      "userId": 1231,
+      "id": 6
+    },
+    {
+      "userId": 1231,
+      "id": 7
+    },
+    {
+      "userId": 1231,
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {},
+  "createOrder": {
+    "buyNumber": 1,
+    "buyType": 0,
+    "period": 0,
+    "version": "0",
+    "bankId": null
+  },
+  "getOrderList": {
+    "query": "asasasa",
+    "productId": 0,
+    "startDate": "2019-03-06",
+    "endDate": "2019-03-14"
+  }
+}
